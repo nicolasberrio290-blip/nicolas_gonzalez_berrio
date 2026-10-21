@@ -1,0 +1,7 @@
+# Responsive Design Media Query - 22026-611 Electiva
+
+**Repositorio base:** https://github.com/uniajc-gperezm/responsive-design-media-query
+**Estudiante:** Entregable Electiva
+**Fecha:** Vence hoy 23:59
+
+## Estructura solicitada
